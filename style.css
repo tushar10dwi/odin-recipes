@@ -12,6 +12,6 @@ h3 {
     font-size: 30px; background-color: orangered; color: aliceblue;
 }
 
-.content {
+p, ul, ol {
     font-size: x-large;
 }
